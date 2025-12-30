@@ -9,10 +9,10 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Student  
-- 💻 Aspiring **Web Developer & UI/UX Designer**
-- 🎨 Love building **clean, modern & user-focused interfaces**
-- 🌱 Currently learning **Next.js, MERN Stack & Advanced UI/UX**
-- ⚡ Fun fact: I enjoy anime & creative design experiments
+- 💻 Aspiring **Web Developer & UI/UX Designer**  
+- 🎨 Passionate about **clean, modern, and user-focused interfaces**  
+- 🌱 Currently learning **Next.js, MERN Stack & Advanced UI/UX**  
+- ⚡ Fun fact: I enjoy anime & creative design experiments  
 
 ---
 
@@ -38,35 +38,34 @@
 
 ## 📌 Featured Projects
 
-- 🎵 **Music Player App** – React + Tailwind (Shuffle, Queue, Playlist)
-- 🧠 **CRUD Feedback System** – MERN Stack
-- 🎨 **Portfolio Website** – Next.js, Framer Motion, Dark Mode
-- 🖌️ **UI/UX Designs** – Figma (Responsive layouts & animations)
+- 🎵 **Music Player App** – React + Tailwind (Shuffle, Queue, Playlist)  
+- 🧠 **CRUD Feedback System** – MERN Stack  
+- 🎨 **Portfolio Website** – Next.js, Framer Motion, Dark Mode  
+- 🖌️ **UI/UX Designs** – Figma (Responsive layouts & animations)  
 
-👉 View all projects here:  
-🔗 **Portfolio:** [https://my-portfolio-link.vercel.app](https://portfolio-delta-ten-6tuid12n68.vercel.app/)
+👉 **View all projects:** [Portfolio](https://portfolio-delta-ten-6tuid12n68.vercel.app/)
 
 ---
 
-## 📊 GitHub Stats (Auto-Updating)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MilanMoktan99&show_icons=true&theme=tokyonight&count_private=true&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MilanMoktan99&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MilanMoktan99&theme=tokyonight&v=1" />
+  <img src="https://streak-stats.demolab.com?user=MilanMoktan99&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanMoktan99&layout=compact&theme=tokyonight&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanMoktan99&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/milan-moktan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -78,10 +77,8 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MilanMoktan99&label=Profile%20Views&color=6A5ACD&style=flat" />
 </p>
 
-⭐ *Thanks for visiting my profile!*
+⭐ *Thanks for visiting my profile!*  
