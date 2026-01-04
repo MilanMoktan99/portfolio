@@ -37,6 +37,8 @@ import instagram from "./instagram.png";
 import github from "./github.png";
 import github_white from "./github-white.png";
 import X from "./twitter.png";
+import linkedIn from "./linkedin.png";
+import linkedIn_White from "./linkedin-white.png";
 import X_white from "./twitter-white.png";
 import Top_Arrow_white from "./top-arrow-white.png";
 import link from "./link.png";
@@ -85,6 +87,8 @@ export const assets = {
   github_white,
   X,
   X_white,
+  linkedIn,
+  linkedIn_White,
   link,
   email,
   email_dark,

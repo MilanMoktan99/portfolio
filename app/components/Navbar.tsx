@@ -58,7 +58,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}: DarkModeNavbarProps) => {
           <ul className='flex md:hidden lg:flex gap-4 mt-4 items-center pb-3'>
             <li><a target="blank" href="https://www.instagram.com/mm_milan00/"><Image src={assets.instagram} alt='social-icon' className='w-6' /></a></li>
             <li><a target="blank" href="https://github.com/MilanMoktan99"><Image src={isDarkMode ? assets.github_white : assets.github} alt='social-icon' className='w-6' /></a></li>
-            <li><a target="blank" href="https://x.com/MilanMoktan816"><Image src={isDarkMode ? assets.X_white : assets.X} alt='social-icon' className='w-6' /></a></li>
+            <li><a target="blank" href="https://www.linkedin.com/in/milan-moktan/"><Image src={isDarkMode ? assets.linkedIn_White : assets.linkedIn} alt='social-icon' className='w-6' /></a></li>
           </ul>
         </div>
 

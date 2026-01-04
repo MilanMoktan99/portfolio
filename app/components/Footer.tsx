@@ -13,9 +13,9 @@ const Footer = ({isDarkMode}: DarkModeProps) => {
               <Image src={isDarkMode ? assets.email_dark : assets.email} alt='mail-icon' className='w-6' />milanmok816@gmail.com
             </a>
             <ul className='flex gap-6 mt-4 justify-center'>
-              <li><a href="https://www.instagram.com/mm_milan00/"><Image src={assets.instagram} alt='social-icon' className='w-6' /></a></li>
-              <li><a href="https://github.com/MilanMoktan99"><Image src={isDarkMode ? assets.github_white : assets.github} alt='social-icon' className='w-6' /></a></li>
-              <li><a href="https://x.com/MilanMoktan816"><Image src={isDarkMode ? assets.X_white : assets.X} alt='social-icon' className='w-6' /></a></li>
+              <li><a target='blank' href="https://www.instagram.com/mm_milan00/"><Image src={assets.instagram} alt='social-icon' className='w-6' /></a></li>
+              <li><a target='blank' href="https://github.com/MilanMoktan99"><Image src={isDarkMode ? assets.github_white : assets.github} alt='social-icon' className='w-6' /></a></li>
+              <li><a target='blank' href="https://www.linkedin.com/in/milan-moktan/"><Image src={isDarkMode ? assets.linkedIn_White : assets.linkedIn} alt='social-icon' className='w-6' /></a></li>
             </ul>
             <a href="#home" className={`mt-6 md:flex items-center gap-2 text-white px-8 py-2 text-sm rounded-lg hidden duration-500 ${isDarkMode ? "border border-white bg-transparent hover:bg-[#2a004a]": "bg-black/80 hover:bg-black"}`}>
               Go to top <Image src={assets.Top_Arrow_white} alt='back to top' className='w-6 -rotate-90' />
